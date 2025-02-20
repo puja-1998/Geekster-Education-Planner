@@ -1,0 +1,32 @@
+
+.incbtn{
+    height: 30px;
+    width: 50px;
+    background-color: green;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.decbtn{
+    height: 30px;
+    width: 50px;
+    background-color: red;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.input-data{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.entry{
+    display: flex;
+    gap: 20px;
+}
