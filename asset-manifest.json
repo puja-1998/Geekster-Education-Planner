@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Geekster-Education-Planner/static/css/main.663dd370.css",
+    "main.js": "/Geekster-Education-Planner/static/js/main.386990a3.js",
+    "static/js/453.6e153f21.chunk.js": "/Geekster-Education-Planner/static/js/453.6e153f21.chunk.js",
+    "index.html": "/Geekster-Education-Planner/index.html",
+    "main.663dd370.css.map": "/Geekster-Education-Planner/static/css/main.663dd370.css.map",
+    "main.386990a3.js.map": "/Geekster-Education-Planner/static/js/main.386990a3.js.map",
+    "453.6e153f21.chunk.js.map": "/Geekster-Education-Planner/static/js/453.6e153f21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.663dd370.css",
+    "static/js/main.386990a3.js"
+  ]
+}
